@@ -21,7 +21,7 @@ Embark on a data-driven adventure as Vrinda Store sets the stage for a remarkabl
 
 8. **Category Royalty:** The grand reveal of the highest-selling category - the true superstar of the show!
 
-## 💡 Insights That Sparkle:
+## 💡 Insights That Sparkle (📊Interactive Dashboard):
 
 - ✨ **She-Shopping Revolution:** Women lead the charge, accounting for approximately 65% of purchases - the queens of retail!
 
@@ -31,12 +31,6 @@ Embark on a data-driven adventure as Vrinda Store sets the stage for a remarkabl
 
 - 🚀 **Channel Connoisseurs:** Amazon, Flipkart, and Myntra form the unstoppable trio, contributing approximately 80% to Vrinda Store's success.
 
-## 📊 Dashboard Insights:
-
-The interactive dashboard reveals a wealth of insights:
-- **Real-time Trends:** Stay updated with live trends and patterns in sales and customer behavior.
-- **User-Friendly Filters:** Drill down into specific data points effortlessly with intuitive filters.
-- **Visual Storytelling:** Let the data tell its story through dynamic charts and graphs.
 
 # 🌟 Final Conclusion:
 Armed with insights, our strategic initiative is crystal clear! 🚀 **Targeting Queens of Commerce:** Aim at women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh. How? Launch an enticing campaign with ads, offers, and coupons strategically placed on Amazon, Flipkart, and Myntra.
