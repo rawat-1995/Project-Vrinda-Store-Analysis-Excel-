@@ -25,7 +25,7 @@ Embark on a data-driven adventure as Vrinda Store sets the stage for a remarkabl
 
 - ✨ **She-Shopping Revolution:** Women lead the charge, accounting for approximately 65% of purchases - the queens of retail!
 
-- 🌏 **State Triumvirate:** Maharashtra, Karnataka, and Uttar Pradesh emerge as the triumphant trio, contributing around 35% to the grand success.
+- 🌏 **Top Three States:** Maharashtra, Karnataka, and Uttar Pradesh emerge as the triumphant trio, contributing around 35% to the grand success.
 
 - 👥 **Age of Influence:** The Adult age group (39-49 years) stands as the silent powerhouse, claiming approximately 50% of the glory.
 
