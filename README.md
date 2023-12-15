@@ -1,4 +1,4 @@
-# Project-Vrinda-Store-Analysis-Excel-
+# Project-:# "Vrinda Store 2022 Sales Report: Uncovering Success with Data Insights"
 
 # Objective
 Embark on a data-driven adventure as Vrinda Store sets the stage for a remarkable 2023 by deciphering the nuances of customer behavior through the 2022 Annual Sales Report.
